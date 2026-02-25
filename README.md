@@ -9,7 +9,7 @@ This project was born out of the excitment and willingness to share knowledge ab
 
 ## Running it locally
 
-If you want ot run the website locally on your machine, you need [Hugo](https://gohugo.io/) minimum version `0.25` and the [Hugo Learn Theme](https://github.com/matcornic/hugo-theme-learn). This theme is provided as a `git submodule` of the main repo.
+If you want to run the website locally on your machine, you need [Hugo](https://gohugo.io/) minimum version `0.25` and the [Hugo Learn Theme](https://github.com/matcornic/hugo-theme-learn). This theme is provided as a `git submodule` of the main repo.
 
 After clonning the repo into a local directory, change to that directory and run the following commands:
 ```
